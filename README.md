@@ -1,5 +1,5 @@
 # TP InfluxDB
-A base code for the [MongoDB TP](https://course.larget.fr/2021-2022/b2-gobelins/bdd/tp/6-influxdb/)
+A base code for the [InfluxDB TP](https://course.larget.fr/2021-2022/b2-gobelins/bdd/tp/6-influxdb/)
 
 ## Requirements
 - NodeJS
